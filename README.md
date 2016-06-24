@@ -1,3 +1,5 @@
+#COURSERA-DEVELOPER-IOT-PYTHON-SOLUTION
+
 # Getting started with the skeleton
 
 The skeleton has some dependencies that should be installed with
